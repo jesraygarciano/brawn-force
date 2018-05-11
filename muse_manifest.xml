@@ -1,0 +1,202 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.blueearth.co.jp/my-body" resolutions="1x" timestamp="1505028276322">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="mbdiet_service.css" crc="295254227" ref="mbdiet_service"/>
+    <file name="index.css" crc="501475492" ref="index"/>
+    <file name="my-body-diet.css" crc="4134363359" ref="my-body-diet"/>
+    <file name="finish_f.css" crc="4054361036" ref="finish_f"/>
+    <file name="finish_o.css" crc="3803472323" ref="finish_o"/>
+    <file name="finish_sp.css" crc="3962647069" ref="finish_sp"/>
+    <file name="entry_k.css" crc="215930162" ref="entry_k"/>
+    <file name="entry_sp.css" crc="307380627" ref="entry_sp"/>
+    <file name="kouenji.css" crc="4060313144" ref="kouenji"/>
+    <file name="finish_k.css" crc="31711291" ref="finish_k"/>
+    <file name="shop.css" crc="3945157106" ref="shop"/>
+    <file name="fujikawa.css" crc="3897019958" ref="fujikawa"/>
+    <file name="ogikubo.css" crc="476536667" ref="ogikubo"/>
+    <file name="mbdiet_qa.css" crc="3844896832" ref="mbdiet_qa"/>
+    <file name="finish_sh.css" crc="135955330" ref="finish_sh"/>
+    <file name="mbdiet_shop.css" crc="4124266859" ref="mbdiet_shop"/>
+    <file name="entry_f.css" crc="377017936" ref="entry_f"/>
+    <file name="entry_o.css" crc="4126872484" ref="entry_o"/>
+    <file name="entry_sh.css" crc="3942092999" ref="entry_sh"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>shop:phone>entry_k:phone>finish_k:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>entry_f:phone>finish_f:phone>entry_o:phone>finish_o:phone>my-body-diet:phone>entry_sp:phone>entry_sh:phone>finish_sp:phone>finish_sh:index:kouenji:entry_k:finish_k:shop:fujikawa:ogikubo:entry_f:entry_o:finish_f:finish_o:my-body-diet:mbdiet_service:mbdiet_shop:entry_sp:entry_sh:finish_sp:finish_sh:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>shop:phone>entry_k:phone>finish_k:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>entry_f:phone>finish_f:phone>entry_o:phone>finish_o:phone>my-body-diet:phone>entry_sp:phone>entry_sh:phone>finish_sp:phone>finish_sh:index:kouenji:entry_k:finish_k:shop:fujikawa:ogikubo:entry_f:entry_o:finish_f:finish_o:my-body-diet:mbdiet_service:mbdiet_shop:entry_sp:entry_sh:finish_sp:finish_sh:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>shop:phone>entry_k:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>entry_f:phone>entry_o:phone>my-body-diet:phone>entry_sp:phone>entry_sh:index:kouenji:entry_k:shop:fujikawa:ogikubo:entry_f:entry_o:my-body-diet:mbdiet_service:mbdiet_shop:entry_sp:entry_sh:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:phone>shop:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>my-body-diet:index:kouenji:shop:fujikawa:ogikubo:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:phone>shop:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>my-body-diet:index:kouenji:shop:fujikawa:ogikubo:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>index:phone>shop:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>my-body-diet:index:kouenji:shop:fujikawa:ogikubo:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>shop:phone>entry_k:phone>finish_k:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>entry_f:phone>finish_f:phone>entry_o:phone>finish_o:phone>my-body-diet:phone>entry_sp:phone>entry_sh:phone>finish_sp:phone>finish_sh:index:kouenji:entry_k:finish_k:shop:fujikawa:ogikubo:entry_f:entry_o:finish_f:finish_o:my-body-diet:mbdiet_service:mbdiet_shop:entry_sp:entry_sh:finish_sp:finish_sh:phone>mbdiet_service:phone>mbdiet_shop"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>shop:phone>entry_k:phone>finish_k:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>entry_f:phone>finish_f:phone>entry_o:phone>finish_o:phone>my-body-diet:phone>entry_sp:phone>entry_sh:phone>finish_sp:phone>finish_sh:index:kouenji:entry_k:finish_k:shop:fujikawa:ogikubo:entry_f:entry_o:finish_f:finish_o:my-body-diet:mbdiet_service:mbdiet_shop:entry_sp:entry_sh:finish_sp:finish_sh:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="form_process.php" crc="401030677" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="form-u1625.php" crc="265465134" ref="phone>entry_k"/>
+    <file name="form-u3587.php" crc="3787515008" ref="phone>entry_f"/>
+    <file name="form-u3687.php" crc="472026121" ref="phone>entry_o"/>
+    <file name="form-u6627.php" crc="3968425645" ref="phone>entry_sp"/>
+    <file name="form-u6727.php" crc="503528538" ref="phone>entry_sh"/>
+    <file name="museredirect.js" crc="3899419633" ref="index:kouenji:entry_k:finish_k:shop:fujikawa:ogikubo:entry_f:entry_o:finish_f:finish_o:my-body-diet:entry_sp:entry_sh:finish_sp:finish_sh:mbdiet_service:mbdiet_shop:mbdiet_qa"/>
+    <file name="form-u799.php" crc="3844593643" ref="entry_k"/>
+    <file name="form-u2379.php" crc="4009152409" ref="entry_f"/>
+    <file name="form-u2579.php" crc="3936302004" ref="entry_o"/>
+    <file name="form-u5231.php" crc="88214558" ref="entry_sp"/>
+    <file name="form-u5351.php" crc="3830644808" ref="entry_sh"/>
+  </folder>
+  <folder name="images">
+    <file name="mb_diet_logo_r.png" crc="498112152" seo="true" ref="phone>index:phone>shop:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>my-body-diet:index:kouenji:shop:fujikawa:ogikubo:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="img-18_2.jpg" crc="4167820436" seo="true" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>shop:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>my-body-diet:index:kouenji:shop:fujikawa:ogikubo:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="cv_img-8_2.jpg" crc="4088627223" seo="true" ref="phone>index:index"/>
+    <file name="cv_img-7_2.jpg" crc="3842301895" seo="true" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>shop:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>my-body-diet:index:kouenji:shop:fujikawa:ogikubo:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="jognow_img4-crop-u1420.jpg" crc="3795699334" seo="true" ref="phone>index"/>
+    <file name="tg_logo.jpg" crc="225345575" seo="true" ref="phone>index:phone>shop:index:shop"/>
+    <file name="arrow.png" crc="3864141416" seo="true" ref="phone>index:phone>shop:phone>kouenji:phone>fujikawa:phone>ogikubo:index:kouenji:shop:fujikawa:ogikubo"/>
+    <file name="logo_.png" crc="3971290569" seo="true" ref="phone>index:index:ogikubo"/>
+    <file name="be_logo.jpg" crc="3965333210" seo="true" ref="phone>index:phone>shop:phone>entry_k:phone>finish_k:phone>kouenji:phone>fujikawa:phone>ogikubo:phone>entry_f:phone>finish_f:phone>entry_o:phone>finish_o:phone>my-body-diet:phone>entry_sp:phone>entry_sh:phone>finish_sp:phone>finish_sh:index:kouenji:shop:fujikawa:ogikubo:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="cv_img-3_k.jpg" crc="470266570" seo="true" ref="phone>shop:index:kouenji:shop:fujikawa"/>
+    <file name="bike_img_6.jpg" crc="474104951" seo="true" ref="phone>shop"/>
+    <file name="u1649-17.png" crc="342267469" ref="phone>entry_k"/>
+    <file name="u1649-17-r.png" crc="3960507821" ref="phone>entry_k"/>
+    <file name="u1649-17-m.png" crc="166764026" ref="phone>entry_k"/>
+    <file name="u1649-17-fs.png" crc="4292828063" ref="phone>entry_k"/>
+    <file name="checkboxunchecked.jpg" crc="3783961257" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="phone>entry_k:phone>entry_f:phone>entry_o:phone>entry_sp:phone>entry_sh:entry_k:entry_f:entry_o:entry_sp:entry_sh"/>
+    <file name="km_01.jpg" crc="4208169815" seo="true" ref="phone>kouenji"/>
+    <file name="fm_01.jpg" crc="344749160" seo="true" ref="phone>fujikawa"/>
+    <file name="om_01.jpg" crc="479032934" seo="true" ref="phone>ogikubo"/>
+    <file name="u3588-17.png" crc="342267469" ref="phone>entry_f"/>
+    <file name="u3588-17-r.png" crc="3960507821" ref="phone>entry_f"/>
+    <file name="u3588-17-m.png" crc="166764026" ref="phone>entry_f"/>
+    <file name="u3588-17-fs.png" crc="4292828063" ref="phone>entry_f"/>
+    <file name="u3688-17.png" crc="342267469" ref="phone>entry_o"/>
+    <file name="u3688-17-r.png" crc="3960507821" ref="phone>entry_o"/>
+    <file name="u3688-17-m.png" crc="166764026" ref="phone>entry_o"/>
+    <file name="u3688-17-fs.png" crc="4292828063" ref="phone>entry_o"/>
+    <file name="mbd_top.jpg" crc="473688779" seo="true" ref="phone>my-body-diet:my-body-diet:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="img-54_k.jpg" crc="4190924700" seo="true" ref="phone>my-body-diet:my-body-diet"/>
+    <file name="arrow_k.png" crc="43248021" seo="true" ref="phone>my-body-diet:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service:phone>mbdiet_shop:phone>mbdiet_qa"/>
+    <file name="arrow_w.png" crc="405648711" seo="true" ref="phone>my-body-diet:my-body-diet:mbdiet_service:mbdiet_shop:mbdiet_qa:phone>mbdiet_service"/>
+    <file name="body.png" crc="528482517" seo="true" ref="mbdiet_service:phone>mbdiet_service"/>
+    <file name="img_1115.jpg" crc="185392106" seo="true" ref="mbdiet_shop:phone>mbdiet_shop"/>
+    <file name="dsc00494.jpg" crc="3952309248" seo="true" ref="mbdiet_shop:phone>mbdiet_shop"/>
+    <file name="pilates_2.jpg" crc="447265941" seo="true" ref="mbdiet_shop:phone>mbdiet_shop"/>
+    <file name="pilates.jpg" crc="83151592" seo="true" ref="mbdiet_shop:phone>mbdiet_shop"/>
+    <file name="u6667-17.png" crc="342267469" ref="phone>entry_sp"/>
+    <file name="u6667-17-r.png" crc="3960507821" ref="phone>entry_sp"/>
+    <file name="u6667-17-m.png" crc="166764026" ref="phone>entry_sp"/>
+    <file name="u6667-17-fs.png" crc="4292828063" ref="phone>entry_sp"/>
+    <file name="u6758-17.png" crc="342267469" ref="phone>entry_sh"/>
+    <file name="u6758-17-r.png" crc="3960507821" ref="phone>entry_sh"/>
+    <file name="u6758-17-m.png" crc="166764026" ref="phone>entry_sh"/>
+    <file name="u6758-17-fs.png" crc="4292828063" ref="phone>entry_sh"/>
+    <file name="kouenji.jpg" crc="385912770" seo="true" ref="index"/>
+    <file name="ogikubo.jpg" crc="104700816" seo="true" ref="index"/>
+    <file name="fujikawa.jpg" crc="3872401683" seo="true" ref="index"/>
+    <file name="jognow_img4-crop-u2040.jpg" crc="3795699334" seo="true" ref="index"/>
+    <file name="k_01.jpg" crc="3894502068" seo="true" ref="kouenji"/>
+    <file name="k_02.jpg" crc="3792961122" seo="true" ref="kouenji"/>
+    <file name="k_03.jpg" crc="4279847891" seo="true" ref="kouenji"/>
+    <file name="arrow_right_b.png" crc="4154407805" seo="true" ref="kouenji:fujikawa:ogikubo"/>
+    <file name="arrow_right.png" crc="4248094806" seo="true" ref="kouenji"/>
+    <file name="riyou_01.png" crc="4128142268" seo="true" ref="kouenji:ogikubo"/>
+    <file name="riyou_02.png" crc="3813991489" seo="true" ref="kouenji:ogikubo"/>
+    <file name="riyou_03.png" crc="277526086" seo="true" ref="kouenji:ogikubo"/>
+    <file name="riyou_04.png" crc="4125957406" seo="true" ref="kouenji:ogikubo"/>
+    <file name="u800-17.png" crc="304396140" ref="entry_k"/>
+    <file name="u800-17-r.png" crc="336074582" ref="entry_k"/>
+    <file name="u800-17-m.png" crc="155476115" ref="entry_k"/>
+    <file name="u800-17-fs.png" crc="316403786" ref="entry_k"/>
+    <file name="bike_img_62.jpg" crc="474104951" seo="true" ref="shop"/>
+    <file name="f_01.jpg" crc="194212161" seo="true" ref="fujikawa"/>
+    <file name="f_02.jpg" crc="522859985" seo="true" ref="fujikawa"/>
+    <file name="f_03.jpg" crc="4159463553" seo="true" ref="fujikawa"/>
+    <file name="kinesis_one_img3.jpg" crc="4205950695" seo="true" ref="ogikubo"/>
+    <file name="u2418-17.png" crc="304396140" ref="entry_f"/>
+    <file name="u2418-17-r.png" crc="336074582" ref="entry_f"/>
+    <file name="u2418-17-m.png" crc="155476115" ref="entry_f"/>
+    <file name="u2418-17-fs.png" crc="316403786" ref="entry_f"/>
+    <file name="u2614-17.png" crc="304396140" ref="entry_o"/>
+    <file name="u2614-17-r.png" crc="336074582" ref="entry_o"/>
+    <file name="u2614-17-m.png" crc="155476115" ref="entry_o"/>
+    <file name="u2614-17-fs.png" crc="316403786" ref="entry_o"/>
+    <file name="headder.jpg" crc="271048607" seo="true" ref="mbdiet_service:mbdiet_shop:mbdiet_qa"/>
+    <file name="u5249-17.png" crc="304396140" ref="entry_sp"/>
+    <file name="u5249-17-r.png" crc="336074582" ref="entry_sp"/>
+    <file name="u5249-17-m.png" crc="155476115" ref="entry_sp"/>
+    <file name="u5249-17-fs.png" crc="316403786" ref="entry_sp"/>
+    <file name="u5394-17.png" crc="304396140" ref="entry_sh"/>
+    <file name="u5394-17-r.png" crc="336074582" ref="entry_sh"/>
+    <file name="u5394-17-m.png" crc="155476115" ref="entry_sh"/>
+    <file name="u5394-17-fs.png" crc="316403786" ref="entry_sh"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="finish_k.css" crc="325489503" ref="phone>finish_k"/>
+      <file name="entry_sp.css" crc="3759678989" ref="phone>entry_sp"/>
+      <file name="finish_o.css" crc="3936494164" ref="phone>finish_o"/>
+      <file name="finish_f.css" crc="3927999225" ref="phone>finish_f"/>
+      <file name="entry_o.css" crc="118204658" ref="phone>entry_o"/>
+      <file name="finish_sh.css" crc="3860106653" ref="phone>finish_sh"/>
+      <file name="entry_f.css" crc="208143188" ref="phone>entry_f"/>
+      <file name="index.css" crc="405784278" ref="phone>index"/>
+      <file name="shop.css" crc="3877587392" ref="phone>shop"/>
+      <file name="entry_k.css" crc="4161595994" ref="phone>entry_k"/>
+      <file name="kouenji.css" crc="212738511" ref="phone>kouenji"/>
+      <file name="my-body-diet.css" crc="3916873922" ref="phone>my-body-diet"/>
+      <file name="fujikawa.css" crc="4286546805" ref="phone>fujikawa"/>
+      <file name="ogikubo.css" crc="3823446260" ref="phone>ogikubo"/>
+      <file name="entry_sh.css" crc="317687838" ref="phone>entry_sh"/>
+      <file name="finish_sp.css" crc="467117529" ref="phone>finish_sp"/>
+      <file name="mbdiet_service.css" crc="4148157246" ref="phone>mbdiet_service"/>
+      <file name="mbdiet_shop.css" crc="4287508358" ref="phone>mbdiet_shop"/>
+      <file name="mbdiet_qa.css" crc="3771495694" ref="phone>mbdiet_qa"/>
+    </folder>
+    <file name="index.html" crc="308283017" seo="true" mt="1505027140816" redirect="true"/>
+    <file name="shop.html" crc="3812471822" seo="true" mt="1505027162973" redirect="true"/>
+    <file name="entry_k.html" crc="128430113" seo="true" mt="1505017384283" redirect="true"/>
+    <file name="finish_k.html" crc="3763800607" seo="true" mt="1505019231729" redirect="true"/>
+    <file name="kouenji.html" crc="3878405022" seo="true" mt="1505027186128" redirect="true"/>
+    <file name="fujikawa.html" crc="4102519270" seo="true" mt="1505027195747" redirect="true"/>
+    <file name="ogikubo.html" crc="346708617" seo="true" mt="1505027213076" redirect="true"/>
+    <file name="entry_f.html" crc="4015347626" seo="true" mt="1505017398453" redirect="true"/>
+    <file name="finish_f.html" crc="86394643" seo="true" mt="1505019240843" redirect="true"/>
+    <file name="entry_o.html" crc="4046184871" seo="true" mt="1505017409270" redirect="true"/>
+    <file name="finish_o.html" crc="117224692" seo="true" mt="1505019251959" redirect="true"/>
+    <file name="my-body-diet.html" crc="3827218324" seo="true" mt="1505027240302" redirect="true"/>
+    <file name="entry_sp.html" crc="164846591" seo="true" mt="1505019336713" redirect="true"/>
+    <file name="entry_sh.html" crc="3899289095" seo="true" mt="1505028041011" redirect="true"/>
+    <file name="finish_sp.html" crc="406564753" seo="true" mt="1505019290062" redirect="true"/>
+    <file name="finish_sh.html" crc="3975703650" seo="true" mt="1505019313241" redirect="true"/>
+    <file name="mbdiet_service.html" crc="4254545511" seo="true" mt="1505027253531" redirect="true"/>
+    <file name="mbdiet_shop.html" crc="170947660" seo="true" mt="1505027279585" redirect="true"/>
+    <file name="mbdiet_qa.html" crc="506616207" seo="true" mt="1505027289474" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="504437640" seo="true" mt="1505025391858" redirect="true"/>
+  <file name="kouenji.html" crc="4063810167" seo="true" mt="1505025373183" redirect="true"/>
+  <file name="entry_k.html" crc="451360992" seo="true" mt="1462221654099" redirect="true"/>
+  <file name="finish_k.html" crc="4097949371" seo="true" mt="1461322445145" redirect="true"/>
+  <file name="shop.html" crc="349290661" seo="true" mt="1502157874047" redirect="true"/>
+  <file name="fujikawa.html" crc="4009725670" seo="true" mt="1505025390715" redirect="true"/>
+  <file name="ogikubo.html" crc="3831612014" seo="true" mt="1502157920767" redirect="true"/>
+  <file name="entry_f.html" crc="3775265192" seo="true" mt="1464594626930" redirect="true"/>
+  <file name="entry_o.html" crc="389186505" seo="true" mt="1469150785170" redirect="true"/>
+  <file name="finish_f.html" crc="211755576" seo="true" mt="1461322471661" redirect="true"/>
+  <file name="finish_o.html" crc="3841143657" seo="true" mt="1461322486296" redirect="true"/>
+  <file name="my-body-diet.html" crc="122443861" seo="true" mt="1505005903175" redirect="true"/>
+  <file name="mbdiet_service.html" crc="3985500197" seo="true" mt="1505025576591" redirect="true"/>
+  <file name="mbdiet_shop.html" crc="4004445387" seo="true" mt="1505025513493" redirect="true"/>
+  <file name="entry_sp.html" crc="4073844808" seo="true" mt="1505017335908" redirect="true"/>
+  <file name="entry_sh.html" crc="132751553" seo="true" mt="1505017346739" redirect="true"/>
+  <file name="finish_sp.html" crc="3196138" seo="true" mt="1505017964805" redirect="true"/>
+  <file name="finish_sh.html" crc="3964127318" seo="true" mt="1505017370252" redirect="true"/>
+  <file name="mbdiet_qa.html" crc="497230542" seo="true" mt="1505025539075" redirect="true"/>
+</manifest>
