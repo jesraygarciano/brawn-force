@@ -437,7 +437,7 @@
 	background-color: transparent;
 	line-height: 26px;
 	text-align: justify;
-	font-size: 16px;
+	font-size: 22px;
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	margin-left: 127px;
 	position: relative;
@@ -520,7 +520,7 @@
 	background-color: transparent;
 	line-height: 22px;
 	text-align: justify;
-	font-size: 14px;
+	font-size: 22px; /*font-14px*/
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1817,6 +1817,7 @@ body
 	min-width: 1000px;
 	padding-top: 36px;
 	padding-bottom: 36px;
+	background: #f1f1f1;
 }
 
 #page .verticalspacer
