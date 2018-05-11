@@ -506,6 +506,7 @@
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
+	right: 84px; /*Added 0511*/
 }
 
 #u2111-4
@@ -525,7 +526,7 @@
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	left: 270px;
+	left: 173px; /*this was 270 | edited 0511*/ 
 }
 
 #u2112-4
@@ -545,10 +546,30 @@
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	left: 539px;
+	left: 430px; /*this was 539 | edited 0511*/
 }
 
-#u2106-4:hover,#u2111-4:hover,#u2112-4:hover
+#g2112-4
+{
+	z-index: 400;
+	width: 240px;
+	min-height: 60px;
+	border-color: #6B6B6B;
+	/*background-color: #D1EB2B;*/
+	background-color: #2b7eeb;
+	border-radius: 10px;
+	color: #343434;
+	line-height: 57px;
+	text-align: center;
+	font-size: 24px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	left: 689px; /* This was 300px | edited 0511*/
+}
+
+#u2106-4:hover,#u2111-4:hover,#u2112-4:hover, #g2112-4:hover
 {
 	/*background-color: #FCEE21;*/
 	background-color: #2b7eeb;
@@ -681,7 +702,7 @@
 	color: #2b7eeb;
 	line-height: 27px;
 	text-align: center;
-	font-size: 21px;
+	font-size: 25px;
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -798,7 +819,7 @@
 
 #u938-2
 {
-	font-size: 17px;
+	font-size: 20px;
 	line-height: 26px;
 }
 
@@ -874,7 +895,7 @@
 	color: #343434;
 	line-height: 13px;
 	text-align: left;
-	font-size: 11px;
+	font-size: 13px;
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	font-weight: bold;
 	margin-left: 41px;
@@ -3506,7 +3527,7 @@ body
 
 #u517-6
 {
-	color: rgb(43, 126, 235);
+    /* color: rgb(43, 126, 235); */
     z-index: 66;
     width: 250px;
     min-height: 112px;
@@ -3515,7 +3536,7 @@ body
     line-height: 53px;
     text-align: center;
     letter-spacing: -2px;
-    font-size: 37px;
+    font-size: 30px;
     font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
     font-weight: bold;
     margin-top: 10px;
@@ -3608,7 +3629,7 @@ body
     width: 250px;
     min-height: 112px;
     background-color: transparent;
-    color: #343434;
+    color: #2b7eeb;
     line-height: 45px;
     text-align: center;
     font-size: 100px;
@@ -3682,17 +3703,17 @@ body
 
 #u519-4
 {
-    z-index: 76;
+	z-index: 76;
     width: 250px;
     min-height: 112px;
     background-color: transparent;
-    color: #343434;
-    line-height: 100px;
+    color: #2b7eeb;
+    line-height: 96px;
     text-align: center;
     font-size: 100px;
     font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
     font-weight: bold;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     position: relative;
 }
 
@@ -3764,7 +3785,7 @@ body
     width: 250px;
     min-height: 112px;
     background-color: transparent;
-    color: #343434;
+    color: #2b7eeb;
     line-height: 45px;
     text-align: center;
     font-size: 100px;
@@ -3842,7 +3863,7 @@ body
     width: 250px;
     min-height: 112px;
     background-color: transparent;
-    color: #343434;
+    color: #2b7eeb;
     line-height: 45px;
     text-align: center;
     font-size: 100px;
@@ -3926,7 +3947,7 @@ body
     width: 250px;
     min-height: 112px;
     background-color: transparent;
-    color: #343434;
+    color: #2b7eeb;
     line-height: 47px;
     text-align: center;
     font-size: 100px;
