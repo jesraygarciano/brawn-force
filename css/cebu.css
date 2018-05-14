@@ -4381,9 +4381,10 @@ body
 
 #u2032
 {
+	margin-top: -12px; /*-68*/
 	z-index: 3;
 	min-height: 500px;
-	background-color: #C8C8C8;
+	background-color: #fff; /*C8C8C8*/
 }
 
 #u2032_align_to_page
@@ -4497,7 +4498,7 @@ body
 	font-size: 15px;
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	font-weight: bold;
-	margin-top: 13px;
+	margin-top: 34px;
 	position: relative;
 }
 
@@ -4533,7 +4534,7 @@ body
 	background-color: #465259;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 100px;
+	margin-top: 83px;
 	left: 872px;
 }
 
@@ -4549,7 +4550,7 @@ body
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 100px;
+	margin-top: 83px;
 	left: 572px;
 }
 
