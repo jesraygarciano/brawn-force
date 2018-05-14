@@ -471,10 +471,20 @@
 
 #u4799-2,#u4799-4,#u4799-6,#u4799-8,#u4799-10
 {
-	font-size: 16px;
+/*	font-size: 16px;
 	line-height: 24px;
 	font-weight: normal;
-	margin-left: 3rem;
+	margin-left: 3rem;*/
+
+    min-height: 185px !important;
+    background-color: transparent !important;
+    color: rgb(52, 52, 52) !important;
+    line-height: 26px !important;
+    text-align: justify !important;
+    font-weight: bold;
+    font-size: 15px !important;
+    margin-left: 3rem;
+    	
 }
 
 #u4799-13
