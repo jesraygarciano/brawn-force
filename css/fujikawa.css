@@ -1731,20 +1731,20 @@
 #u2125-4
 {
 	z-index: 32;
-	width: 250px;
-	min-height: 27px;
-	border-color: #343434;
-	background-color: #42410B;
-	border-radius: 10px 10px 0px 0px ;
-	color: #D1EB2B;
-	line-height: 27px;
-	text-align: center;
-	font-size: 21px;
-	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
-	font-weight: bold;
-	margin-left: 375px;
-	margin-top: 32px;
-	position: relative;
+    width: 250px;
+    min-height: 27px;
+    border-color: #343434;
+    background-color: #2b7eeb;
+    border-radius: 10px 10px 0px 0px;
+    color: #fbfbfb;
+    line-height: 27px;
+    text-align: center;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 375px;
+    margin-top: 32px;
+    position: relative;
 }
 
 #pu2113,#pu2120
@@ -1792,7 +1792,7 @@
 	z-index: 96;
 	width: 600px;
 	border-color: #42410B;
-	background-color: #646464;
+	background-color: rgb(218, 218, 218); /*#646464*/
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -1805,7 +1805,7 @@
 	z-index: 102;
 	width: 50px;
 	border-color: #42410B;
-	background-color: #D1EB2B;
+	background-color: #2b7eeb; /*#D1EB2B*/
 	border-radius: 10px 0px 0px 10px ;
 	padding-bottom: 11px;
 	position: relative;
@@ -1838,7 +1838,7 @@
 	min-height: 20px;
 	border-color: #343434;
 	background-color: transparent;
-	color: #D1EB2B;
+	color: #2b7eeb; /*#D1EB2B*/
 	line-height: 18px;
 	text-align: left;
 	font-size: 18px;
@@ -1855,7 +1855,7 @@
 	z-index: 97;
 	width: 600px;
 	border-color: #42410B;
-	background-color: #646464;
+	background-color: rgb(218, 218, 218); /*#646464*/
 	border-radius: 10px;
 	margin-left: 20px;
 	margin-top: 20px;
@@ -1867,8 +1867,8 @@
 	z-index: 103;
 	width: 50px;
 	border-color: #42410B;
-	background-color: #D1EB2B;
-	border-radius: 10px 0px 0px 10px ;
+	background-color: #2b7eeb; /*#D1EB2B*/
+	border-radius: 10px 0px 0px 10px;
 	padding-bottom: 11px;
 	position: relative;
 	margin-right: -10000px;
@@ -1900,7 +1900,7 @@
 	min-height: 20px;
 	border-color: #343434;
 	background-color: transparent;
-	color: #D1EB2B;
+	color: #2b7eeb; /*#D1EB2B*/
 	line-height: 18px;
 	text-align: left;
 	font-size: 18px;
@@ -1975,7 +1975,7 @@
 	z-index: 100;
 	width: 600px;
 	border-color: #42410B;
-	background-color: #646464;
+	background-color: rgb(218, 218, 218); /*#646464*/
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -1988,7 +1988,7 @@
 	z-index: 106;
 	width: 50px;
 	border-color: #42410B;
-	background-color: #D1EB2B;
+	background-color: #2b7eeb; /*#D1EB2B*/
 	border-radius: 10px 0px 0px 10px ;
 	padding-bottom: 11px;
 	position: relative;
@@ -2021,7 +2021,7 @@
 	min-height: 20px;
 	border-color: #343434;
 	background-color: transparent;
-	color: #D1EB2B;
+	color: #2b7eeb; /*#D1EB2B*/
 	line-height: 18px;
 	text-align: left;
 	font-size: 18px;
