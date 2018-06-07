@@ -495,13 +495,13 @@
 	width: 240px;
 	min-height: 60px;
 	border-color: #6B6B6B;
-	/*background-color: #D1EB2B;*/
-	/* background-color: #2b7eeb; */
+	background-color: #D1EB2B;
+	background-color: #2b7eeb;
 	border-radius: 10px;
-	color: #343434;
+	color: #FFF; /*343434*/
 	line-height: 57px;
 	text-align: center;
-	font-size: 30px;
+	font-size: 18px; /*30px*/
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -515,13 +515,13 @@
 	width: 240px;
 	min-height: 60px;
 	border-color: #6B6B6B;
-	/*background-color: #D1EB2B;*/
-	/* background-color: #2b7eeb; */
+	background-color: #D1EB2B;
+	background-color: #2b7eeb;
 	border-radius: 10px;
-	color: #343434;
+	color: #FFF; /* #343434  */
 	line-height: 57px;
 	text-align: center;
-	font-size: 30px;
+	font-size: 18px; /* 30px */
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -556,13 +556,13 @@
 	width: 240px;
 	min-height: 60px;
 	border-color: #6B6B6B;
-	/*background-color: #D1EB2B;*/
-	/* background-color: #2b7eeb; */
+	background-color: #D1EB2B;
+	background-color: #2b7eeb;
 	border-radius: 10px;
-	color: #343434;
+	color: #FFF; /*343434*/
 	line-height: 57px;
 	text-align: center;
-	font-size: 24px;
+	font-size: 18px; /*24px*/
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -572,8 +572,8 @@
 
 #u2106-4:hover,#u2111-4:hover,#u2112-4:hover, #g2112-4:hover
 {
-	/*background-color: #FCEE21;*/
-	/* background-color: #2b7eeb; */
+	background-color: #FCEE21;
+	background-color: #2b7eeb;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 60px;
@@ -3524,7 +3524,7 @@ body
 {
 	z-index: 33;
 	min-height: 58px;
-	background-color: #C8C8C8;
+	background-color: #FFF; /*#C8C8C8*/
 	padding-bottom: 12px;
 }
 
